@@ -1,4 +1,4 @@
-//Java Program to illustrate how to define a class and fields  
+ 
 //Defining a Student class.  
 class Student{  
  //defining fields  
