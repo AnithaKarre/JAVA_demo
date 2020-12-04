@@ -1,4 +1,4 @@
-  class Student{    
+class Student{    
  int id;  
  String name;   
  public static void main(String args[]){    
@@ -7,4 +7,4 @@
   System.out.println(s1.name);  
  }  
 }  
- 
+ //end of the program
