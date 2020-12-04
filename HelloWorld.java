@@ -7,7 +7,8 @@ public class HelloWorld
         fs.method();
     }
 }
- class FirstClass
+//defining a child class//
+class FirstClass
 {
     public void method()
     {
