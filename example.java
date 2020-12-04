@@ -1,4 +1,4 @@
-//defining a Student class  
+
 class Student{    
  int id;  
  String name;   
@@ -8,4 +8,4 @@ class Student{
   System.out.println(s1.name);  
  }  
 }  
- 
+ //end of the program
