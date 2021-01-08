@@ -1,19 +1,19 @@
 // MethodOverride...
 class MethodOverriding {
 
-     void car() {
-         System.out.println("car is moving...");
+     void run() {
+         System.out.println("car is running...");
      }
  }
     class HeroHonda extends MethodOverriding {
-        void car() {
-            System.out.println("car was left...");
+        void run() {
+            System.out.println("HeroHonda car is running...");
         }
 
 
     public static void main(String[] args) {
         HeroHonda h= new HeroHonda();
-        h.car();
+        h.run();
 
 
     }
